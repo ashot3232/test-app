@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+
+# dotenv environment variables file
+.env
+.env.test
+.env.production
+
+# IDEs
+.vscode/
+.idea/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+*.iml
+.history/
+
+# MacOS
+.DS_Store
